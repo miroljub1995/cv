@@ -1,0 +1,47 @@
+:root {
+  --personal-info-width: 260px;
+}
+
+.personal-info {
+  width: var(--personal-info-width);
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 20px 0;
+  box-sizing: border-box;
+  background-color: rgb(236, 236, 236);
+}
+.personal-info h3 {
+  color: rgb(39, 169, 225);
+  margin-bottom: 0;
+}
+
+.birth-date {
+  justify-content: space-between;
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+.birth-date p {
+  margin-bottom: 0;
+}
+
+.profile-image {
+  width: 80%;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+
+.align-justify {
+  text-align: justify;
+}
+.contact {
+  flex-direction: column;
+}
+.contact, .contact > div {
+  width: 100%;
+}
+.contact > div {
+  justify-content: space-between;
+}
+.contact p {
+  margin: 0;
+}

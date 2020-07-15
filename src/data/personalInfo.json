@@ -1,0 +1,17 @@
+{
+  "birthDate": "1 Nov 1995",
+  "aboutMe": "Ambitious, great motivation for software development and hard worker. Passionate about programming and picking up new technologies really quickly. Like to collaborate with co-workers and enjoying in sharing knowledge without big ego. Team player, but can work independently as well. Pretty amazed at how technology is evolving so fast and trying to keep up with it. Always looking for best practices and for testable, maintainable and scalable architectures.",
+  "contact": {
+    "mobile": "+381 62 658206",
+    "email": "miroljub1995@gmail.com",
+    "city": "Nis",
+    "country": "Serbia",
+    "linkedIn": "https://www.linkedin.com/in/miroljub-tomic",
+    "github": "https://www.github.com/miroljub1995"
+  },
+  "softSkills": "Communication, teamwork, flexibility, problem-solving, creativity, leadership",
+  "languages": [
+    "Serbian (native)",
+    "English"
+  ]
+}

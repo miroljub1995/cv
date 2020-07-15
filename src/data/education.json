@@ -1,0 +1,29 @@
+{
+  "master": {
+    "university": "University of Nis",
+    "from": "2018",
+    "to": "present",
+    "school": "Faculty of Electronic Engineering",
+    "studies": "Master academic studies",
+    "department": "Department of Computer Science",
+    "module": "Software Engineering",
+    "GPAByNow": "9.88"
+  },
+  "masterSweden": {
+    "university": "Malardalen University",
+    "from": "Jan 2020",
+    "to": "June 2020",
+    "school": "The School of Innovation, Design and Engineering",
+    "studies": "Master academic studies",
+    "department": "Department of Computer Science"
+  },
+  "bachelor": {
+    "university": "University of Nis",
+    "from": "2014",
+    "to": "2018",
+    "school": "Faculty of Electronic Engineering",
+    "studies": "Basic academic studies",
+    "department": "Department of Computer Science",
+    "GPA": "9.74"
+  }
+}
