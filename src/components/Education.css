@@ -1,0 +1,15 @@
+.studies {
+  margin: 0 20px;
+}
+
+.studies > div {
+  margin-left: 20px;
+}
+
+.studies > div:first-child {
+  margin-left: 0;
+}
+
+.studies > div > p {
+  margin: 0 0 0 15px;
+}
