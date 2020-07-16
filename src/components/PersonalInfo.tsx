@@ -19,11 +19,11 @@ const Contact = () => (
     </div>
     <div>
       <p>LinkedIn:</p>
-      <a href={data.contact.linkedIn} target="_blank">Visit profile</a>
+      <a href={data.contact.linkedIn} target="_blank" rel="noopener noreferrer">Visit profile</a>
     </div>
     <div>
       <p>GitHub:</p>
-      <a href={data.contact.github} target="_blank">Visit profile</a>
+      <a href={data.contact.github} target="_blank" rel="noopener noreferrer">Visit profile</a>
     </div>
   </div>
 )
