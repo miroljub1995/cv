@@ -32,6 +32,7 @@ export default function PersonalInfo() {
   return (
     <div className='personal-info'>
       <img className='profile-image' src={profileImage} alt='' />
+      <h1>Miroljub Tomic</h1>
       <h3>Personal info</h3>
       <div className='birth-date'>
         <p>Birth date</p>

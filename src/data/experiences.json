@@ -1,0 +1,127 @@
+{
+  "experiences": [
+    {
+      "company": "MotionDSP (Cubic from 2018)",
+      "companyLink": "https://www.motiondsp.com",
+      "position": "Software Engineer",
+      "location": "Nis, Serbia",
+      "from": "2018",
+      "to": "2020",
+      "description": [
+        {
+          "type": "text",
+          "value": "Being a member of Product team and working on GUI development of Ikena and other softwares. Some of the responsibilities:"
+        },
+        {
+          "type": "list",
+          "value": [
+            "Working with JIRA, Bitbucket and Git",
+            "Writing modern, well designed, testable and readable C#/.NET code",
+            "Develop WPF, WinForms in Visual Studio",
+            "Implementing new features and fixing various of bugs",
+            "Writing tests",
+            "Manipulating with MSBuild tasks",
+            "Refactoring to match the modern patterns and architectures",
+            "Memory and performance profiling and optimization",
+            "Accepting change suggestions, as well as suggesting changes to pull requests",
+            "Keep the good communication with all members of team, as well as with other teams"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "Some achievements:"
+        },
+        {
+          "type": "list",
+          "value": [
+            "Reduced overall system build time by about 30%-40%",
+            "Refactored components for better performance",
+            "Introduced Reactive Programming into production",
+            "Refactored project dependencies for easier maintenance and deployment"
+          ]
+        }
+      ],
+      "keywords": [
+        "C#/.NET",
+        "C++/CLI",
+        "Visual Studio",
+        "WPF",
+        "WinForms",
+        "JIRA",
+        "Bitbucket",
+        "Git",
+        "Unit tests",
+        "MSBuild",
+        "Jenkins",
+        "Reactive",
+        "Redux"
+      ]
+    },
+    {
+      "company": "MotionDSP (Cubic from 2018)",
+      "companyLink": "https://www.motiondsp.com",
+      "position": "Intern Software Engineer",
+      "location": "Nis, Serbia",
+      "from": "Jul 2018",
+      "to": "Sep 2018",
+      "description": [
+        {
+          "type": "text",
+          "value": "Creating a desktop application that can detect copy-move on an image made in some editor like Photoshop. Designed by R&D Team and Product Team. R&D Team worked on copy-move detection filter, Product Team worked on application GUI and communication with Core. I was a part of Product Team."
+        },
+        {
+          "type": "text",
+          "value": "Some major responsibilities:"
+        },
+        {
+          "type": "list",
+          "value": [
+            "Creating C#/.NET WPF windows desktop application connected with C++ over Managed C++",
+            "Creating immutable application state with Redux and Reactive Extensions for .NET",
+            "Designing application architecture",
+            "Writing well designed, testable and readable code covered by Unit tests",
+            "Presenting the development progress to teams abroad"
+          ]
+        },
+        {
+          "type": "text",
+          "value": "It was nice experience and learned a lot from experienced software engineers."
+        }
+      ],
+      "keywords": [
+        "C#/.NET",
+        "C++/CLI",
+        "Visual Studio",
+        "WPF",
+        "GitHub",
+        "Git",
+        "Unit tests",
+        "Reactive",
+        "Redux"
+      ]
+    },
+    {
+      "company": "INGSOFTWARE",
+      "companyLink": "https://www.ingsoftware.com",
+      "position": "Intern Software Engineer",
+      "location": "Nis, Serbia",
+      "from": "Aug 2017",
+      "to": "Sep 2017",
+      "description": [
+        {
+          "type": "text",
+          "value": "A Web application that allows users to create, archive, filter, sort and show invoices with ASP.NET MVC and SQL Server database. Some of the main responsibilities were creating a backend server and database, designing and implementing a user interface, connecting all those parts and creating an email notification system."
+        }
+      ],
+      "keywords": [
+        "C#/.NET",
+        "ASP.NET MVC",
+        "Visual Studio",
+        "SQL Server",
+        "Entity Framework",
+        "LINQ",
+        "HTML/CSS/JavaScript"
+      ]
+    }
+  ]
+}

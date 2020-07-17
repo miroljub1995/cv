@@ -1,5 +1,5 @@
 :root {
-  --personal-info-width: 260px;
+  --personal-info-width: 225px;
 }
 
 .personal-info {
@@ -8,6 +8,11 @@
   align-items: center;
   padding: 10px 20px 0;
   box-sizing: border-box;
+  height: 100%;
+  font-size: 13px;
+}
+
+.app > .column:first-child {
   background-color: rgb(236, 236, 236);
 }
 
@@ -17,7 +22,7 @@
   border-bottom: 1px solid black;
 }
 .birth-date p {
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .profile-image {
@@ -37,6 +42,7 @@
 }
 .contact > div {
   justify-content: space-between;
+  margin: 2px 0;
 }
 .contact p {
   margin: 0;

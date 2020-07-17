@@ -25,8 +25,8 @@ const Items = () => (
         <div>
           {`${studies.school}`}
         </div>
-        <div>{`${studies.studies}, Department of ${studies.department}, ${studies.GPA ? 
-          `GPA: ${studies.GPA}` : studies.GPAByNow ? `GPA by now: ${studies.GPAByNow}` : ''}`}</div>
+        <div>{`${studies.studies}, Department of ${studies.department}${studies.GPA ? 
+          `, GPA: ${studies.GPA}` : studies.GPAByNow ? `, GPA by now: ${studies.GPAByNow}` : ''}`}</div>
       </div>
     ))}
   </div>
@@ -34,7 +34,7 @@ const Items = () => (
 
 export default () => (
   <>
-    <h3>Eduation</h3>
+    <h3>Education</h3>
     <Items />
   </>
 )
