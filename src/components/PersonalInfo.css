@@ -1,14 +1,8 @@
-:root {
-  --personal-info-width: 225px;
-}
-
 .personal-info {
-  width: var(--personal-info-width);
   flex-direction: column;
   align-items: center;
   padding: 10px 20px 0;
   box-sizing: border-box;
-  height: 100%;
   font-size: 13px;
 }
 
