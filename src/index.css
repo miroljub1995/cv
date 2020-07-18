@@ -13,3 +13,9 @@ code {
 #root div {
   display: flex;
 }
+
+@media print {
+  div {
+    page-break-inside: avoid;
+  }
+}

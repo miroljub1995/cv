@@ -34,8 +34,8 @@
         {
           "type": "list",
           "value": [
-            "Reduced overall system build time by about 30%-40%",
-            "Refactored components for better performance",
+            "Reduced overall application build time by about 30%-40%, colleagues really appreciate that",
+            "Refactored components for better performance and user experience",
             "Introduced Reactive Programming into production",
             "Refactored project dependencies for easier maintenance and deployment"
           ]

@@ -5,20 +5,134 @@
       "descriptions": [
         {
           "type": "text",
-          "value": ""
+          "value": "Leisure project with goal to gain knowledge about some of the popular trends."
         }
       ],
       "keywords": [
         "Docker",
         "Kubernetes",
-        "MetalLB",
-        "Deno",
-        "MongoDB Cluster",
-        "Latest React",
-        "Google APIs",
+        "VirtualBox",
         "Ubuntu",
+        "Deno",
         "PROXY Protocol",
-        "Let's Encrypt"
+        "NginX",
+        "MetalLB",
+        "MongoDB Cluster",
+        "React Hooks",
+        "Typescript",
+        "Google APIs"
+      ]
+    },
+    {
+      "name": "Price Change Notifier",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "Really simple and really useful background application that notifies clients when price of the ticket is changed. Used two times by now and both times helped in reducing travel cost. Notifications are sent over email."
+        }
+      ],
+      "keywords": [
+        "Node",
+        "Electron",
+        "Web crawler"
+      ]
+    },
+    {
+      "name": "Smart Trafic System",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "Inspired by traffic congustions, this application shows sumulation of intersection, where traffic lights are controled by Q-Learning algorithm. Algorithm knows only how many vehicles are in the every lane and desides where to turn green light next. Sumo is used for traffic sumulation. This system shows betther results than Round Robin where there is no uniform traffic flow."
+        }
+      ],
+      "keywords": [
+        "Inteligent System",
+        "Python",
+        "Sumo/TraCI",
+        "Q-Learning"
+      ]
+    },
+    {
+      "name": "Medical System",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "A Web application that allows medical stuff to schedule medical visit of patients. Data are sotred in contracts on ethereum blockchain (Rinkeby test network). Contracts are written in Solidity programming language. Web3.js and Metamask are used for front-blockchain connection."
+        }
+      ],
+      "keywords": [
+        "React",
+        "Redux",
+        "Blockchain",
+        "Solidity",
+        "Smart Contracts",
+        "Web3.js",
+        "SemanticUI"
+      ]
+    },
+    {
+      "name": "Clipboard History Manager",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "Cross-platform (Win, Linux) electron application that runs in background and records every change of clipboard. You can show up manager window and select which recorded clipboard content you want to paste. Automatic software update also done."
+        }
+      ],
+      "keywords": [
+        "React",
+        "Electron",
+        "Node",
+        "Automatic Software Update",
+        "GitHub Releases"
+      ]
+    },
+    {
+      "name": "Data Structure Visualization",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "The Web application, built with ReactJS, wich helps to easly understand some basic operations on Binary Search Tree and Min/Max Heap by going step by step in player followed by pseudocode and visual pointers."
+        }
+      ],
+      "keywords": [
+        "React",
+        "Canvas",
+        "Algorithms",
+        "BST/Heap"
+      ]
+    },
+    {
+      "name": "Hasami Shogi",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "Logical game for two players. Implementation of Minimax algorithm in programming language lisp. Won third place in the competition computer vs. computer."
+        }
+      ],
+      "keywords": [
+        "Lisp",
+        "Functional Programming",
+        "Minimax algorithm",
+        "AI",
+        "Competition"
+      ]
+    },
+    {
+      "name": "Car Dealership System",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": "This is a Windows application that allows dealers to keep track of clients, sales, repairs, etc. NHibernate ORM is used to connect to Oracle database."
+        }
+      ],
+      "keywords": [
+        "C#",
+        "SQL",
+        "Oracle Database",
+        "ORM",
+        "REST API",
+        "LINQ",
+        "Postman"
       ]
     }
   ]
