@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "Exploring new trends",
+      "descriptions": [
+        {
+          "type": "text",
+          "value": ""
+        }
+      ],
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "MetalLB",
+        "Deno",
+        "MongoDB Cluster",
+        "Latest React",
+        "Google APIs",
+        "Ubuntu",
+        "PROXY Protocol",
+        "Let's Encrypt"
+      ]
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import Keywords from './Keywords'
 const Items = () => (
   <>
     {experiences.map((exp, i) => (
-      <div key={i} className='column exp'>
+      <div key={i} className='column exp marg-l-20'>
         <div>
           <b>
             <span>{exp.position} in </span>

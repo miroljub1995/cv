@@ -3,6 +3,7 @@ import './App.css'
 import PersonalInfo from './PersonalInfo'
 import Education from './Education'
 import Experiances from './Experiances'
+import Projects from './Projects'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <div className='column'>
         <Education />
         <Experiances />
+        <Projects />
       </div>
     </div>
   )
