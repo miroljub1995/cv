@@ -1,6 +1,6 @@
 import React from "react";
 import './Descriptions.css'
-import { switchExp } from "./Utils";
+import { switchExp } from "../Utils";
 
 export default ({ val }: { val: { type: string, value: string | string[] }[] }) => (
   <div className='column'>
