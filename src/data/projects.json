@@ -42,7 +42,7 @@
       "descriptions": [
         {
           "type": "text",
-          "value": "Inspired by traffic congustions, this application shows sumulation of intersection, where traffic lights are controled by Q-Learning algorithm. Algorithm knows only how many vehicles are in the every lane and desides where to turn green light next. Sumo is used for traffic sumulation. This system shows betther results than Round Robin where there is no uniform traffic flow."
+          "value": "Inspired by traffic congestions, this application shows a simulation of the intersection, where traffic lights are controlled by the Q-Learning algorithm. The algorithm knows only how many vehicles are in every lane and decides where to turn green light next. Sumo is used for traffic simulation. This system shows better results than Round Robin where there is no uniform traffic flow."
         }
       ],
       "keywords": [
@@ -57,7 +57,7 @@
       "descriptions": [
         {
           "type": "text",
-          "value": "A Web application that allows medical stuff to schedule medical visit of patients. Data are sotred in contracts on ethereum blockchain (Rinkeby test network). Contracts are written in Solidity programming language. Web3.js and Metamask are used for front-blockchain connection."
+          "value": "A Web application that allows medical staff to schedule a medical visit of patients. Data are stored in contracts on ethereum blockchain (Rinkeby test network). Contracts are written in the Solidity programming language. Web3.js and Metamask are used for the front-blockchain connection."
         }
       ],
       "keywords": [
@@ -75,7 +75,7 @@
       "descriptions": [
         {
           "type": "text",
-          "value": "Cross-platform (Win, Linux) electron application that runs in background and records every change of clipboard. You can show up manager window and select which recorded clipboard content you want to paste. Automatic software update also done."
+          "value": "Cross-platform (Win, Linux) electron application that runs in background and records every change of clipboard. You can show up the manager window and select which recorded clipboard content you want to paste. An automatic software update also is done."
         }
       ],
       "keywords": [
@@ -91,7 +91,7 @@
       "descriptions": [
         {
           "type": "text",
-          "value": "The Web application, built with ReactJS, wich helps to easly understand some basic operations on Binary Search Tree and Min/Max Heap by going step by step in player followed by pseudocode and visual pointers."
+          "value": "A Web application, built with ReactJS, which helps to easily understand some basic operations on Binary Search Tree and Min/Max Heap by going step by step in a player followed by pseudocode and visual pointers."
         }
       ],
       "keywords": [
@@ -106,7 +106,7 @@
       "descriptions": [
         {
           "type": "text",
-          "value": "Logical game for two players. Implementation of Minimax algorithm in programming language lisp. Won third place in the competition computer vs. computer."
+          "value": "Logical game for two players. Implementation of the Minimax algorithm in programming language lisp. Won third place in the competition computer vs. computer."
         }
       ],
       "keywords": [
@@ -122,7 +122,7 @@
       "descriptions": [
         {
           "type": "text",
-          "value": "This is a Windows application that allows dealers to keep track of clients, sales, repairs, etc. NHibernate ORM is used to connect to Oracle database."
+          "value": "A Windows application that allows dealers to keep track of clients, sales, repairs, etc. NHibernate ORM is used to connect to the Oracle database."
         }
       ],
       "keywords": [
