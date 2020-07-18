@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.63890070.chunk.css",
-    "main.js": "/static/js/main.2cb8037c.chunk.js",
-    "main.js.map": "/static/js/main.2cb8037c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2ca0876f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2ca0876f.js.map",
-    "static/js/2.80668394.chunk.js": "/static/js/2.80668394.chunk.js",
-    "static/js/2.80668394.chunk.js.map": "/static/js/2.80668394.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bf589e4de74398c749c894a1d37f7d3e.js": "/precache-manifest.bf589e4de74398c749c894a1d37f7d3e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.63890070.chunk.css.map": "/static/css/main.63890070.chunk.css.map",
-    "static/js/2.80668394.chunk.js.LICENSE.txt": "/static/js/2.80668394.chunk.js.LICENSE.txt",
-    "static/media/profileImage.jpg": "/static/media/profileImage.05cc83de.jpg"
+    "main.css": "/miroljub1995.github.io/cv/static/css/main.63890070.chunk.css",
+    "main.js": "/miroljub1995.github.io/cv/static/js/main.38815a4d.chunk.js",
+    "main.js.map": "/miroljub1995.github.io/cv/static/js/main.38815a4d.chunk.js.map",
+    "runtime-main.js": "/miroljub1995.github.io/cv/static/js/runtime-main.ee1e3373.js",
+    "runtime-main.js.map": "/miroljub1995.github.io/cv/static/js/runtime-main.ee1e3373.js.map",
+    "static/js/2.80668394.chunk.js": "/miroljub1995.github.io/cv/static/js/2.80668394.chunk.js",
+    "static/js/2.80668394.chunk.js.map": "/miroljub1995.github.io/cv/static/js/2.80668394.chunk.js.map",
+    "index.html": "/miroljub1995.github.io/cv/index.html",
+    "precache-manifest.aaf3b339680e31cf54c6ea5bec080d64.js": "/miroljub1995.github.io/cv/precache-manifest.aaf3b339680e31cf54c6ea5bec080d64.js",
+    "service-worker.js": "/miroljub1995.github.io/cv/service-worker.js",
+    "static/css/main.63890070.chunk.css.map": "/miroljub1995.github.io/cv/static/css/main.63890070.chunk.css.map",
+    "static/js/2.80668394.chunk.js.LICENSE.txt": "/miroljub1995.github.io/cv/static/js/2.80668394.chunk.js.LICENSE.txt",
+    "static/media/profileImage.jpg": "/miroljub1995.github.io/cv/static/media/profileImage.05cc83de.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ca0876f.js",
+    "static/js/runtime-main.ee1e3373.js",
     "static/js/2.80668394.chunk.js",
     "static/css/main.63890070.chunk.css",
-    "static/js/main.2cb8037c.chunk.js"
+    "static/js/main.38815a4d.chunk.js"
   ]
 }
