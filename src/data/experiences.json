@@ -7,7 +7,7 @@
       "location": "Nis, Serbia",
       "from": "2018",
       "to": "2020",
-      "description": [
+      "descriptions": [
         {
           "type": "text",
           "value": "Being a member of Product team and working on GUI development of Ikena and other softwares. Some of the responsibilities:"
@@ -64,7 +64,7 @@
       "location": "Nis, Serbia",
       "from": "Jul 2018",
       "to": "Sep 2018",
-      "description": [
+      "descriptions": [
         {
           "type": "text",
           "value": "Creating a desktop application that can detect copy-move on an image made in some editor like Photoshop. Designed by R&D Team and Product Team. R&D Team worked on copy-move detection filter, Product Team worked on application GUI and communication with Core. I was a part of Product Team."
@@ -107,7 +107,7 @@
       "location": "Nis, Serbia",
       "from": "Aug 2017",
       "to": "Sep 2017",
-      "description": [
+      "descriptions": [
         {
           "type": "text",
           "value": "A Web application that allows users to create, archive, filter, sort and show invoices with ASP.NET MVC and SQL Server database. Some of the main responsibilities were creating a backend server and database, designing and implementing a user interface, connecting all those parts and creating an email notification system."

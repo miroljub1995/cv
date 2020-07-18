@@ -1,0 +1,6 @@
+.desc-list {
+  margin: 0;
+}
+.desc-list > li {
+  margin-top: -3px;
+}

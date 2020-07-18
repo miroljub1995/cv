@@ -1,7 +1,8 @@
 import React from 'react'
 import { experiences } from '../data/experiences.json'
+import Descriptions from './Descriptions'
 import './Experiances.css'
-import { switchExp } from './Utils'
+import Keywords from './Keywords'
 
 const Items = () => (
   <>
@@ -15,23 +16,8 @@ const Items = () => (
           <span>, {exp.location}</span>
           <span>{exp.from} - {exp.to}</span>
         </div>
-        <div className='column'>
-          {exp.description.map((desc, i) => switchExp(desc.type, {
-            'text': () => (<span key={i}>{desc.value}</span>),
-            'list': () => (
-              <ul key={i} className='desc-list'>
-                {(desc.value as string[]).map((val) => (
-                  <li key={val}>{val}</li>
-                ))}
-              </ul>
-            )
-          }))}
-        </div>
-        <ul className='keywords'>
-          {exp.keywords.map(w => (
-            <li key={w}>{w}</li>
-          ))}
-        </ul>
+        <Descriptions val={exp.descriptions} />
+        <Keywords val={exp.keywords} />
       </div>
     ))}
   </>

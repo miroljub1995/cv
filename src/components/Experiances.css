@@ -5,23 +5,3 @@
 .exp > div:first-child > span:last-child {
   margin-left: 15px;
 }
-
-.desc-list {
-  margin: 0;
-}
-.desc-list > li {
-  margin-top: -3px;
-}
-
-ul.keywords {
-  list-style-type: none;
-  margin: 5px 0;
-  padding-left: 5px;
-}
-.keywords > li {
-  float: left;
-  margin: 1px 1px;
-  padding: 0px 2px;
-  background-color: rgb(216, 216, 216);
-  border-radius: 4px;
-}
