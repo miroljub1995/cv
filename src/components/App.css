@@ -1,6 +1,7 @@
 .app {
   flex-direction: column;
 }
+
 .app>.column {
   flex-grow: 1;
 }

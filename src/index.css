@@ -16,7 +16,7 @@ code {
 }
 
 @media print {
-  div {
-    page-break-inside: avoid;
+  body {
+    font-size: 11px;
   }
 }
