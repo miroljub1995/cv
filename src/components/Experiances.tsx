@@ -8,13 +8,12 @@ const Items = () => (
   <>
     {experiences.map((exp, i) => (
       <div key={i} className='column exp marg-l-20'>
-        <div>
+        <div className='wrap'>
           <b>
             <span>{exp.position} in </span>
             <a href={exp.companyLink} target="_blank" rel="noopener noreferrer">{exp.company}</a>
           </b>
-          <span>, {exp.location}</span>
-          <span>{exp.from} - {exp.to}</span>
+          <span>{`${exp.location} ${exp.from} - ${exp.to}`}</span>
         </div>
         <Descriptions val={exp.descriptions} />
         <Keywords val={exp.keywords} />

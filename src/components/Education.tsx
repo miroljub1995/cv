@@ -18,7 +18,7 @@ const Items = () => (
   <div className='column'>
     {studies.map((studies: Studies, key) => (
       <div key={key} className='studies column'>
-        <div>
+        <div className='wrap'>
           <b>{studies.university}</b>
           <p>{`${studies.from} - ${studies.to}`}</p>
         </div>

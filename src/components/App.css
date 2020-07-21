@@ -34,3 +34,7 @@ h3 {
 .marg-l-20 {
   margin-left: 20px;
 }
+
+.wrap {
+  flex-wrap: wrap;
+}
