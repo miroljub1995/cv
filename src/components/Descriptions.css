@@ -1,6 +1,7 @@
-.desc-list {
+.desc>ul {
   margin: 0;
 }
-.desc-list > li {
-  margin-top: -3px;
+
+.desc>span, .desc>ul>li {
+  text-align: justify;
 }

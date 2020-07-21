@@ -6,7 +6,7 @@ import Descriptions from "./Descriptions";
 const Items = () => (
   <>
     {projects.map(project => (
-      <div className='column marg-l-20'>
+      <div key={project.name} className='column marg-l-20'>
         <b>{project.name}</b>
         <Descriptions val={project.descriptions} />
         <Keywords val={project.keywords} />

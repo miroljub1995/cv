@@ -5,8 +5,9 @@ ul.keywords {
 }
 .keywords > li {
   float: left;
-  margin: 1px 1px;
-  padding: 0px 2px;
-  background-color: rgb(216, 216, 216);
+  margin: 3px 3px;
+  padding: 1px 7px;
+  background-color: rgb(226, 226, 226);
   border-radius: 4px;
+  box-shadow: 1px 1px 3px #888888;
 }

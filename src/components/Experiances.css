@@ -1,3 +1,7 @@
 .exp > div:first-child > span:last-child {
   margin-left: 10px;
 }
+
+.exp > div:first-child {
+  flex-wrap: wrap;
+}
