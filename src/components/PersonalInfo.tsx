@@ -15,7 +15,7 @@ const Contact = () => (
     </div>
     <div>
       <p>Location:</p>
-      <p>{`${data.contact.city}, ${data.contact.country}`}</p>
+      <p>{data.contact.location}</p>
     </div>
     <div>
       <p>LinkedIn:</p>
@@ -24,6 +24,10 @@ const Contact = () => (
     <div>
       <p>GitHub:</p>
       <a href={data.contact.github} target="_blank" rel="noopener noreferrer">Visit profile</a>
+    </div>
+    <div>
+      <p>Online CV:</p>
+      <a href={data.contact.onlineCV} target="_blank" rel="noopener noreferrer">Visit online CV</a>
     </div>
   </div>
 )

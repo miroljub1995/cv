@@ -4,10 +4,10 @@
   "contact": {
     "mobile": "+381 62 658206",
     "email": "miroljub1995@gmail.com",
-    "city": "Nis",
-    "country": "Serbia",
+    "location": "Nis, Serbia",
     "linkedIn": "https://www.linkedin.com/in/miroljub-tomic",
-    "github": "https://www.github.com/miroljub1995"
+    "github": "https://www.github.com/miroljub1995",
+    "onlineCV": "https://miroljub1995.github.io/cv/"
   },
   "softSkills": "Communication, teamwork, flexibility, problem-solving, creativity, leadership",
   "languages": [
