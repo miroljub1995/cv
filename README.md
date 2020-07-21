@@ -1,3 +1,4 @@
+![Deploy CV](https://github.com/miroljub1995/cv/workflows/Deploy%20CV/badge.svg?branch=master)<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
